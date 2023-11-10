@@ -20,7 +20,7 @@ The Health and Fitness Tracking App is a sophisticated tool designed for individ
 ## Installation and Setup
 1. **Clone the Repository**:
 
-git clone [url]
+git clone [https://github.com/Rany29-coder/health-fitness-app]
 cd health-fitness-app
 
 2. **Install Dependencies**:
